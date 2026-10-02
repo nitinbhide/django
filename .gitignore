@@ -17,9 +17,14 @@ tests/.coverage*
 build/
 tests/report/
 tests/screenshots/
+## Ignore list for docmaps
 *.po
 *.mo
 **/locale/
 **/vendor/
+/docs/releases/
+/docs/_theme/
+/docs/man/
+/extras/
 
 
